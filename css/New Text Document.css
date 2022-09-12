@@ -1,0 +1,45 @@
+* {
+    background-color: rgb(219, 177, 166);
+}
+
+h1 {
+    background-color: rgb(92, 144, 196);
+    color: white;
+
+}
+
+a:hover {
+    color: white;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+li{
+    font-family: 'Dosis', sans-serif;
+}
+
+nav{
+display: flex;
+flex-direction: row ;
+justify-content: space-between;
+width: 100%;
+}
+
+.Da{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.zvezda{
+    display: flex;
+    
+    
+    flex-direction: column;
+    text-align: center;
+}
+
+
